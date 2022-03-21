@@ -40,7 +40,7 @@ for i in range(len(team_seed)):
         team_seed[i] = team_seed[i][:-1]
 team_seed = team_seed.astype(np.int_)
 
-#create dictionaries for team name and team id
+#create dictionaries for team name and team id for convenience
 team_name_dict = {}
 team_id_dict = {}
 for i in range(len(team_id)):
@@ -48,11 +48,15 @@ for i in range(len(team_id)):
     team_id_dict[team_name[i]] = team_id[i]
 
 def win_prob(rating1, rating2):
+    #takes power ranking elo scores and outputs win probability
     diff = rating1 - rating2
     prob = 1 / ( 1 + 10 ** ( -1 * diff * 30.464 / 400))
     return prob
                  
 class Game:
+    # class that will contain data needed to simulate one game
+    # these objects will live in another object called a Bracket
+    # that will be responsible for simulating a whole tournament
     def __init__(self, team1, team2):
         self.team1 = team1
         self.team2 = team2
@@ -65,6 +69,7 @@ class Game:
         self.winner = 0
     
     def win_prob(self, rating1, rating2):
+        #takes power ranking elo scores and outputs win probability
         diff = rating1 - rating2
         prob = 1 / ( 1 + 10 ** ( -1 * diff * 30.464 / 400))
         return prob
@@ -89,7 +94,7 @@ class Bracket:
         self.prob = 0 #calculate probability of the whole situation happening
         self.score = 0 #calculate score
         self.adjusted_score = 0 #product of prob and score
-        # code to create games based on 17
+        # insert code to create games based on seeds adding to 17
     
     def SimulateRound(self, roundnum):
         #code simulate a round and make games for next round
@@ -113,10 +118,10 @@ class Bracket:
         return
 
 
-x = Game(team_id_dict['Kentucky'], team_id_dict["Saint Peter's"])
+x = Game(team_id_dict['Gonzaga'], team_id_dict["Kansas"])
 x.Simulate()
 print(x.team1prob)
-for i in range (100):
+for i in range (10):
     x.Simulate()
     print(team_name_dict[x.winner])
 
