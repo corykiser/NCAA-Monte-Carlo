@@ -1,0 +1,3800 @@
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 639.1041506293008
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 639.0634701657639
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 638.5778594179475
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 638.3486969647882
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 638.0909065903644
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 638.0423399673217
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 637.8602753960838
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 637.5525118420002
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 637.4235204053431
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 637.370494801923
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 637.1882072325741
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 637.0613178299731
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.9856462780408
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.9326857270013
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.8793493163024
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.5687520320396
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.5135644042826
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.4404774468269
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.4342183659858
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.4031764789137
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.3868330411069
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.3684748629719
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.1681497195468
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.1442780806844
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.1177249019171
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 636.0748085167712
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.9596483439886
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.9538149581634
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.9468895876121
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.89294004591
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.8477545500217
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.7181435524218
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.6148644371297
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.6032330835968
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.5794813203177
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.5667006741801
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.5384100996729
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.5041908564755
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.4997502217553
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.4791940532582
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.4519161391191
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.4039183037174
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.4038844491835
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.3976643677754
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.3945558486414
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.3552997908491
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.3373962337703
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.2905056319553
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.2429256580941
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.2188002758111
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.1342356669621
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.1048391673077
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.0611684258297
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.0597714899462
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 635.030673410441
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.9830201830413
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.9470325076308
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.9446420301057
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.9202528494553
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.8483640649222
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.846365112726
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.8033870361045
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.7967827155466
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.7180300237628
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.6810285452646
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.679918705169
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.6470861022772
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.605039126951
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.5776439901213
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.5625020677378
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.5386362322532
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.4699657525254
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.2869795428741
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.2364190052958
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.2298770783698
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.21582643291
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.1150338471442
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.0845257546298
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 634.0070165896354
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.9920789921072
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.9493085904103
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.9489912440338
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.9074007586797
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.8988386679678
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.8480192752971
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.71218310381
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.6843440548084
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.6741992317366
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.5818373823237
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.5513366275007
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.5016186268373
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.4664122491756
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.4314350050822
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.4139042191774
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.3896569330412
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.3883686035964
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.3653183977833
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.2428926203322
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.2070936007111
+
+Baylor
+Indiana
+Purdue
+Murray State
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Indiana
+Murray State
+Gonzaga
+Texas Tech
+Houston
+Ohio State
+Iowa
+Auburn
+
+Indiana
+Gonzaga
+Ohio State
+Iowa
+
+Indiana
+Ohio State
+
+Ohio State
+
+1086 633.1222174219298
+

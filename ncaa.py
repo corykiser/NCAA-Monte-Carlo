@@ -97,9 +97,12 @@ class Game:
     def Simulate(self):
         if random.random() < self.team1prob:
             self.winner = self.team1
+            #update elo 0.1 is made up
+            #team_rating[self.pos1] = team_rating[self.pos1] + (0.1 * (1 - self.team1prob))
         else:
             self.winner = self.team2
-        
+            #update elo 0.1 is made up
+            #team_rating[self.pos2] = team_rating[self.pos2] + (0.1 * (1 - self.team2prob))
 
 class Bracket:
     #simulate 74,325,939 brackets if possible
@@ -287,13 +290,16 @@ class Bracket:
 def myFunc(e):
     x = e[7]
     return x
+def myFunc2(e):
+    x = e[6]
+    return x
 
 def MonteCarlo(number):
     toplist = []
     for i in range(100000):
         y = Bracket()
         y.Simulate()
-        if len(toplist) > 20:
+        if len(toplist) > 200:
             max = 0;
             for x in toplist:
                 if x[7] > max:
@@ -311,14 +317,15 @@ def MonteCarlo(number):
 
 if __name__ == '__main__':
     p = Pool()
-    result = p.map(MonteCarlo, range(8))
+    result = p.map(MonteCarlo, range(9))
     biggerlist = []
     for x in result:
         for i in x:
             biggerlist.append(i)
+    #biggerlist = list(set(biggerlist)) ## remove dupes
     biggerlist.sort(reverse=True, key=myFunc)
 
-    for i in range(10):
+    for i in range(200):
         for x in biggerlist[i][0]:
             print(team_name_dict[x])
         print()
