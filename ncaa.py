@@ -213,17 +213,35 @@ class Bracket:
         #code to find product of all probabilities
         prob = 1
         for game in self.games1:
-            prob *= game.team1prob
+            if game.winner == game.team1:
+                prob *= game.team1prob
+            else:
+                prob *= game.team2prob
         for game in self.games2:
-            prob *= game.team1prob
+            if game.winner == game.team1:
+                prob *= game.team1prob
+            else:
+                prob *= game.team2prob
         for game in self.games3:
-            prob *= game.team1prob
+            if game.winner == game.team1:
+                prob *= game.team1prob
+            else:
+                prob *= game.team2prob
         for game in self.games4:
-            prob *= game.team1prob
+            if game.winner == game.team1:
+                prob *= game.team1prob
+            else:
+                prob *= game.team2prob
         for game in self.games5:
-            prob *= game.team1prob
+            if game.winner == game.team1:
+                prob *= game.team1prob
+            else:
+                prob *= game.team2prob
         for game in self.games6:
-            prob *= game.team1prob
+            if game.winner == game.team1:
+                prob *= game.team1prob
+            else:
+                prob *= game.team2prob
         self.prob = prob
     
     def Output(self):
@@ -272,7 +290,7 @@ def myFunc(e):
 
 def MonteCarlo(number):
     toplist = []
-    for i in range(100000):
+    for i in range(1000):
         y = Bracket()
         y.Simulate()
         if len(toplist) > 20:
@@ -291,30 +309,30 @@ def MonteCarlo(number):
             toplist.sort(reverse=True, key=myFunc)
     return toplist
 
+if __name__ == '__main__':
+    p = Pool()
+    result = p.map(MonteCarlo, range(8))
+    biggerlist = []
+    for x in result:
+        for i in x:
+            biggerlist.append(i)
+    biggerlist.sort(reverse=True, key=myFunc)
 
-p = Pool()
-result = p.map(MonteCarlo, range(8))
-biggerlist = []
-for x in result:
-    for i in x:
-        biggerlist.append(i)
-biggerlist.sort(reverse=True, key=myFunc)
-
-for i in range(10):
-    for x in biggerlist[i][0]:
-        print(team_name_dict[x])
-    print()
-    for x in biggerlist[i][1]:
-        print(team_name_dict[x])
-    print()
-    for x in biggerlist[i][2]:
-        print(team_name_dict[x])
-    print()
-    for x in biggerlist[i][3]:
-        print(team_name_dict[x])
-    print()
-    for x in biggerlist[i][4]:
-        print(team_name_dict[x])
-    print()
-    print(biggerlist[i][6], biggerlist[i][7])
-    print()
+    for i in range(10):
+        for x in biggerlist[i][0]:
+            print(team_name_dict[x])
+        print()
+        for x in biggerlist[i][1]:
+            print(team_name_dict[x])
+        print()
+        for x in biggerlist[i][2]:
+            print(team_name_dict[x])
+        print()
+        for x in biggerlist[i][3]:
+            print(team_name_dict[x])
+        print()
+        for x in biggerlist[i][4]:
+            print(team_name_dict[x])
+        print()
+        print(biggerlist[i][6], biggerlist[i][7])
+        print()
