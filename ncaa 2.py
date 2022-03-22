@@ -1,4 +1,4 @@
-from numba import jit, njit
+from numba import jit
 import csv
 import numpy as np
 import random
@@ -66,7 +66,7 @@ for i in range(len(team_id)):
     team_seed_dict[team_id[i]] = team_seed[i]
     team_region_dict[team_id[i]] = team_region[i]
     
- 
+@jit(nopython=True)
 def win_prob(rating1, rating2):
     #takes power ranking elo scores and outputs win probability
     diff = rating1 - rating2
@@ -88,7 +88,7 @@ class Game:
         self.team2prob = 1.0 - self.team1prob
         self.winner = 0
     
-     (nopython=True)
+    @jit(nopython=True)
     def win_prob(self, rating1, rating2):
         #takes power ranking elo scores and outputs win probability
         diff = rating1 - rating2
@@ -139,7 +139,7 @@ class Bracket:
                                     checklist.append(regions[j][0][i])
                                     checklist.append(pair)
 
-     
+    @jit
     def Simulate(self):
         self.games1_winners = []
         for i in self.games1:
@@ -198,7 +198,7 @@ class Bracket:
                 
         #code simulate a round and make games for next round
     
-     
+    @jit
     def Score(self):
         score = 0
         for game in self.games1:
@@ -215,7 +215,7 @@ class Bracket:
             score += 32 * team_seed_dict[game.winner]
         self.score = score
     
-     
+    @jit
     def Prob(self):
         #code to find product of all probabilities
         prob = 1
@@ -290,16 +290,16 @@ class Bracket:
 # z = Bracket()
 # z.Simulate()
 # print(z.Output())
- 
+@jit
 def myFunc(e):
     x = e[7]
     return x
- 
+@jit
 def myFunc2(e):
     x = e[6]
     return x
 
- 
+@jit
 def MonteCarlo(number):
     toplist = []
     for i in range(100000):
