@@ -4,7 +4,7 @@ import numpy as np
 import random
 import os.path
 import urllib.request
-from multiprocessing import Process
+from multiprocessing import Pool
 
 ## check if the forecast data exists and download if it doesn't
 if os.path.exists('fivethirtyeight_ncaa_forecasts.csv') == False:
@@ -114,6 +114,12 @@ class Bracket:
         self.prob = 0 #calculate probability of the whole situation happening
         self.score = 0 #calculate score
         self.adjusted_score = 0 #product of prob and score
+        self.games1_winners = []
+        self.games2_winners = []
+        self.games3_winners = []
+        self.games4_winners = []
+        self.games5_winners = []
+        self.games6_winners = []
         # fill games1 based on seeds adding to 17
         for j in range(4):
             checklist = []
@@ -130,56 +136,57 @@ class Bracket:
 
     
     def Simulate(self):
-        games1_winners = []
+        self.games1_winners = []
         for i in self.games1:
             i.Simulate()
-            games1_winners.append(i.winner)
+            self.games1_winners.append(i.winner)
         for j in range(4):
             for x in round2:
                 t = []
-                for team in games1_winners:
+                for team in self.games1_winners:
                     if team_region_dict[team] == region_names[j]:
                         if team_seed_dict[team] in x:
                             t.append(team)
                 self.games2.append( Game(t[0],t[1]))
         
-        games2_winners = []
+        self.games2_winners = []
         for i in self.games2:
             i.Simulate()
-            games2_winners.append(i.winner)
+            self.games2_winners.append(i.winner)
         for j in range(4):
             for x in round3:
                 t = []
-                for team in games2_winners:
+                for team in self.games2_winners:
                     if team_region_dict[team] == region_names[j]:
                         if team_seed_dict[team] in x:
                             t.append(team)
                 self.games3.append( Game(t[0],t[1]))
-        games3_winners = []
+        self.games3_winners = []
         for i in self.games3:
             i.Simulate()
-            games3_winners.append(i.winner)
+            self.games3_winners.append(i.winner)
         for j in range(4):
             for x in round4:
                 t = []
-                for team in games3_winners:
+                for team in self.games3_winners:
                     if team_region_dict[team] == region_names[j]:
                         if team_seed_dict[team] in x:
                             t.append(team)
                 self.games4.append( Game(t[0],t[1]))
-        games4_winners = []
+        self.games4_winners = []
         for i in self.games4:
             i.Simulate()
-            games4_winners.append(i.winner)
+            self.games4_winners.append(i.winner)
         
-        self.games5.append( Game(games4_winners[0], games4_winners[1]))
-        self.games5.append( Game(games4_winners[2], games4_winners[3]))
-        games5_winners = []            
+        self.games5.append( Game(self.games4_winners[0], self.games4_winners[1]))
+        self.games5.append( Game(self.games4_winners[2], self.games4_winners[3]))
+        self.games5_winners = []            
         for i in self.games5:
             i.Simulate()
-            games5_winners.append(i.winner)
-        self.games6.append(Game(games5_winners[0], games5_winners[1]))
+            self.games5_winners.append(i.winner)
+        self.games6.append(Game(self.games5_winners[0], self.games5_winners[1]))
         self.games6[0].Simulate()
+        self.games6_winners.append(self.games6[0].winner)
         self.Score()
         self.Prob()
         self.adjusted_score = self.score * self.prob
@@ -222,7 +229,7 @@ class Bracket:
     def Output(self):
         # return an array for storing in a list so
         #the objects can get deleted from memory
-        return np.array( [self.games2, self.games3, self.games4, self.games5, self.games6, self.prob, self.score, self.adjusted_score] )
+        return [self.games2_winners, self.games3_winners, self.games4_winners, self.games5_winners, self.games6_winners, self.prob[0], self.score, self.adjusted_score[0]]
         
     def PrintBracket(self):
         for i in self.games1:
@@ -247,35 +254,67 @@ class Bracket:
         print()
         print(team_name_dict[self.games6[0].winner])
         print(self.score)
+        print(self.adjusted_score)
         print('-----')
         return
 
 
 
 
+
+# z = Bracket()
+# z.Simulate()
+# print(z.Output())
+
 def myFunc(e):
-  return e[1]
+    x = e[7]
+    return x
 
-toplist = []
-for i in range(100000):
-    y = Bracket()
-    y.Simulate()
-    if len(toplist) > 10:
-        max = 0;
-        for x in toplist:
-            if x[1] > max:
-                max = x[1]
-        if y.score > max:
-            toplist.pop(-1)
-            toplist.append([y,y.adjusted_score])
-            
-    else:
-        toplist.append([y,y.adjusted_score])
+def MonteCarlo(number):
+    toplist = []
+    for i in range(100000):
+        y = Bracket()
+        y.Simulate()
+        if len(toplist) > 20:
+            max = 0;
+            for x in toplist:
+                if x[7] > max:
+                    max = x[7]
+            if y.score > max:
+                toplist.sort(reverse=True, key=myFunc)
+                toplist.pop(-1)
+                yy = y.Output()
+                toplist.append(yy)
+                toplist.sort(reverse=True, key=myFunc)                
+        else:
+            toplist.append((y.Output()))
+            toplist.sort(reverse=True, key=myFunc)
+    return toplist
 
-toplist.sort(reverse=True, key=myFunc)
-for i in range(9):
-    toplist[i][0].PrintBracket()
-# f = open("results.txt", "a")
-# for i in toplist:
-#     f.write()
-# f.close()
+
+p = Pool()
+result = p.map(MonteCarlo, range(8))
+biggerlist = []
+for x in result:
+    for i in x:
+        biggerlist.append(i)
+biggerlist.sort(reverse=True, key=myFunc)
+
+for i in range(10):
+    for x in biggerlist[i][0]:
+        print(team_name_dict[x])
+    print()
+    for x in biggerlist[i][1]:
+        print(team_name_dict[x])
+    print()
+    for x in biggerlist[i][2]:
+        print(team_name_dict[x])
+    print()
+    for x in biggerlist[i][3]:
+        print(team_name_dict[x])
+    print()
+    for x in biggerlist[i][4]:
+        print(team_name_dict[x])
+    print()
+    print(biggerlist[i][6], biggerlist[i][7])
+    print()
