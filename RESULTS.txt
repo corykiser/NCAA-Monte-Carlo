@@ -7,7 +7,7 @@ Arkansas
 Texas Tech
 Duke
 Arizona
-Illinois
+Houston
 Tennessee
 Villanova
 Kansas
@@ -15,26 +15,102 @@ Iowa
 Louisiana State
 Auburn
 
-Baylor
+UCLA
 Kentucky
 Gonzaga
 Texas Tech
-Arizona
+Houston
 Villanova
 Kansas
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
 Villanova
 Kansas
 
+UCLA
+Villanova
+
+UCLA
+
+607 1.677681820028002e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
 Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
 Kansas
+Iowa
+Louisiana State
+Auburn
 
+UCLA
+Purdue
 Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Auburn
 
-421 3.721625423035193e-08
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Villanova
+
+UCLA
+
+612 1.4802369577128852e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+605 1.475051277388994e-07
 
 Baylor
 UCLA
@@ -62,84 +138,8 @@ Villanova
 Kansas
 Auburn
 
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-440 3.573473574067847e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
 UCLA
 Gonzaga
-Villanova
-Iowa
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-490 3.539541064774547e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
 Arizona
 Kansas
 
@@ -148,87 +148,1189 @@ Arizona
 
 Gonzaga
 
-411 3.2747209742807905e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-425 2.7328278484501196e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-449 2.6559116828432008e-08
+429 1.379369712672197e-07
 
 Baylor
 UCLA
 Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+605 1.3126802469154725e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+603 1.2148748167695525e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Arizona
+
+UCLA
+
+572 1.1610976108066019e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Villanova
+
+UCLA
+
+607 1.062996364515118e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+612 1.0581930904225927e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+592 1.0168628850160643e-07
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+693 9.82642941784785e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+604 9.791347667447556e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+593 9.680548956242215e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+423 9.52761252241606e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Kentucky
+Iowa
+
+Iowa
+
+663 9.277221265561856e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Villanova
+
+Villanova
+
+547 8.951670811004579e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Kansas
+
+Kansas
+
+479 8.949353392199916e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+610 8.83329580785788e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+432 8.78654516407438e-08
+
+North Carolina
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+622 8.579655552839835e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+426 8.523821219249643e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+666 8.432371992435388e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+591 8.083117926538752e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+681 7.866190241659408e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+627 7.60520236943085e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+419 7.58539249627422e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Houston
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+461 7.46992327252632e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Texas
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Tennessee
+Kansas
+
+UCLA
+Tennessee
+
+UCLA
+
+625 7.361360069077982e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+440 7.313892265366431e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Texas Tech
+Arizona
+Auburn
+
+UCLA
+Arizona
+
+UCLA
+
+613 7.215160874153766e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+418 7.205747814675831e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Louisiana State
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+686 7.154698834895187e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Ohio State
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Houston
+Kansas
+
+Kentucky
+Houston
+
+Houston
+
+669 7.116058010070074e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+411 6.991193534092094e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+439 6.979859699256229e-08
+
+Baylor
+UCLA
+Purdue
 Kentucky
 Gonzaga
 Arkansas
@@ -249,563 +1351,221 @@ Gonzaga
 Duke
 Arizona
 Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-428 2.5933630622768822e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-441 2.5673444272703975e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-411 2.56341557246117e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
 Iowa
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
 Arizona
 Iowa
 
-Gonzaga
-Arizona
-
-Gonzaga
-
-455 2.4798177060683844e-08
-
-Baylor
 UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-441 2.397662464807553e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
 Iowa
 
-Gonzaga
-Arizona
-
-Gonzaga
-
-458 2.295168685973734e-08
-
-Baylor
 UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
 
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-443 2.287374447066753e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-439 2.274625692350566e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-427 2.1929249200794193e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-423 2.1731842287739737e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-414 2.1591657174279698e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-435 2.137401281313566e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-425 2.1278950818279893e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-418 2.0150302812436186e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Houston
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-484 1.9356869789639385e-08
+683 6.96817436248322e-08
 
 Baylor
 UCLA
 Texas
 Kentucky
 Gonzaga
-Arkansas
+Connecticut
 Texas Tech
 Duke
 Arizona
 Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Texas
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+608 6.935022609292895e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Duke
+Villanova
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+632 6.859622623389621e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+439 6.725720558723224e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+431 6.712895849929548e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+UCLA
+Arizona
+
+UCLA
+
+594 6.69535821524604e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
 Tennessee
 Villanova
 Kansas
@@ -827,12 +1587,50 @@ Gonzaga
 Villanova
 Auburn
 
-Gonzaga
+UCLA
 Villanova
 
-Gonzaga
+UCLA
 
-471 1.935434864915817e-08
+619 6.618485021239382e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Houston
+Kansas
+
+Kentucky
+Houston
+
+Houston
+
+682 6.56495801505879e-08
 
 Baylor
 UCLA
@@ -844,6 +1642,386 @@ Texas Tech
 Duke
 Arizona
 Houston
+Tennessee
+Villanova
+Kansas
+Providence
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+UCLA
+Arizona
+
+UCLA
+
+585 6.520490195539645e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Illinois
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Illinois
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+596 6.512183679115108e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Auburn
+
+Purdue
+Gonzaga
+Villanova
+Auburn
+
+Purdue
+Villanova
+
+Villanova
+
+530 6.385947923074703e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Kansas
+
+Kentucky
+Kansas
+
+Kentucky
+
+477 6.31664337233986e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+UCLA
+Villanova
+
+UCLA
+
+645 6.276184703122231e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+678 6.270024291004899e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Kansas
+
+Kentucky
+Arizona
+
+Kentucky
+
+475 6.26396968471372e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Tennessee
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+438 6.263132527835913e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+UCLA
+Arizona
+
+UCLA
+
+593 6.234683294560157e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+457 6.223622600777441e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Alabama
+Duke
+Arizona
+Illinois
 Tennessee
 Villanova
 Kansas
@@ -860,28 +2038,28 @@ Villanova
 Kansas
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
 Villanova
-Kansas
+Auburn
 
-Gonzaga
-Villanova
+UCLA
+Auburn
 
-Gonzaga
+UCLA
 
-442 1.9154627316273363e-08
+613 6.211569914800819e-08
 
 Baylor
 UCLA
 Purdue
 Kentucky
 Gonzaga
-Connecticut
+Arkansas
 Texas Tech
 Duke
 Arizona
-Houston
+Illinois
 Tennessee
 Villanova
 Kansas
@@ -893,22 +2071,402 @@ UCLA
 Kentucky
 Gonzaga
 Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+649 6.193418380156986e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
 Houston
 Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Tennessee
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+609 6.182472835462628e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+449 6.146712179259064e-08
+
+Baylor
+UCLA
+Virginia Tech
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
 Kansas
 Auburn
 
 Kentucky
 Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Auburn
+
+Gonzaga
+
+460 6.141795980114328e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Alabama
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+San Diego State
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+680 6.132332434471426e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Auburn
+
+Gonzaga
+
+445 6.096437803179878e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
 Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Texas Tech
+Tennessee
 Kansas
 
+UCLA
+Tennessee
+
+UCLA
+
+657 6.062423161941645e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
 Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+702 5.996713131717646e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Michigan State
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Iowa
+Auburn
+
+Purdue
+Gonzaga
+Houston
+Iowa
+
+Purdue
+Houston
+
+Houston
+
+721 5.981977074191058e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Kentucky
+Auburn
+
+Kentucky
+
+496 5.963202491901147e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
 Kansas
 
-Gonzaga
+UCLA
+Kansas
 
-448 1.9070940258191372e-08
+UCLA
+
+589 5.961873299478818e-08
 
 Baylor
 UCLA
@@ -933,7 +2491,7 @@ Gonzaga
 Duke
 Arizona
 Villanova
-Iowa
+Kansas
 Auburn
 
 UCLA
@@ -941,12 +2499,12 @@ Gonzaga
 Arizona
 Auburn
 
-Gonzaga
-Auburn
+UCLA
+Arizona
 
-Gonzaga
+UCLA
 
-465 1.9056449067402713e-08
+599 5.876791546251373e-08
 
 Baylor
 UCLA
@@ -962,6 +2520,44 @@ Tennessee
 Villanova
 Kansas
 Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Wisconsin
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Arizona
+
+UCLA
+
+588 5.8654935832612516e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
 Louisiana State
 Auburn
 
@@ -971,27 +2567,27 @@ Gonzaga
 Duke
 Arizona
 Villanova
-Iowa
+Kansas
 Auburn
 
 Kentucky
 Gonzaga
 Arizona
-Auburn
+Kansas
 
 Gonzaga
-Arizona
+Kansas
 
 Gonzaga
 
-426 1.891688055658017e-08
+422 5.837475815032119e-08
 
 North Carolina
 UCLA
-Texas
+Purdue
 Kentucky
 Gonzaga
-Arkansas
+Connecticut
 Texas Tech
 Duke
 Arizona
@@ -1006,7 +2602,7 @@ Auburn
 UCLA
 Kentucky
 Gonzaga
-Duke
+Texas Tech
 Arizona
 Villanova
 Kansas
@@ -1014,15 +2610,129 @@ Auburn
 
 Kentucky
 Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+430 5.835650616104839e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Providence
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Louisiana State
+
+UCLA
+Gonzaga
 Villanova
 Kansas
 
+UCLA
+Villanova
+
+UCLA
+
+603 5.82428409047139e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Houston
+Kansas
+
 Gonzaga
 Kansas
 
 Gonzaga
 
-437 1.870676622799943e-08
+447 5.820917127289599e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+417 5.812556805715635e-08
 
 Baylor
 UCLA
@@ -1044,30 +2754,68 @@ Auburn
 UCLA
 Kentucky
 Gonzaga
-Texas Tech
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Duke
+Villanova
+Iowa
+
+Kentucky
+Iowa
+
+Iowa
+
+691 5.800528058419429e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
 Houston
+Tennessee
 Villanova
 Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
 Auburn
 
 UCLA
 Gonzaga
-Houston
-Kansas
+Villanova
+Auburn
 
-Gonzaga
-Houston
+UCLA
+Villanova
 
-Gonzaga
+UCLA
 
-536 1.855286001983911e-08
+627 5.779740473620446e-08
 
 Baylor
 UCLA
-Texas
+Purdue
 Kentucky
 Gonzaga
-Arkansas
+Connecticut
 Texas Tech
 Duke
 Arizona
@@ -1086,9 +2834,9 @@ Texas Tech
 Arizona
 Tennessee
 Kansas
-Louisiana State
+Auburn
 
-UCLA
+Kentucky
 Gonzaga
 Arizona
 Kansas
@@ -1098,7 +2846,7 @@ Kansas
 
 Gonzaga
 
-441 1.847402579036738e-08
+433 5.7483345505031e-08
 
 Baylor
 UCLA
@@ -1118,65 +2866,27 @@ Wisconsin
 Auburn
 
 UCLA
-Kentucky
+Purdue
 Gonzaga
 Duke
 Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-475 1.842843014581694e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
 Tennessee
-Villanova
-Kansas
 Iowa
 Wisconsin
-Auburn
 
 UCLA
-Kentucky
 Gonzaga
-Duke
 Arizona
-Villanova
-Kansas
-Auburn
+Iowa
 
 UCLA
-Gonzaga
-Villanova
-Kansas
+Arizona
 
-Gonzaga
-Villanova
+UCLA
 
-Gonzaga
+617 5.7136223531049045e-08
 
-461 1.8344489904234626e-08
-
-North Carolina
+Baylor
 UCLA
 Purdue
 Kentucky
@@ -1202,17 +2912,435 @@ Villanova
 Kansas
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
 Villanova
 Auburn
 
+UCLA
+Villanova
+
+UCLA
+
+610 5.687391577843962e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
 Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
 Auburn
 
 Gonzaga
+Arizona
 
-451 1.8337717250064443e-08
+Gonzaga
+
+446 5.6814199401802e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+685 5.645549129811333e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Arizona
+
+UCLA
+
+595 5.642680819804974e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Kentucky
+Auburn
+
+Kentucky
+
+503 5.615226193311465e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+454 5.599961498371663e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+444 5.589761443600343e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Wisconsin
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+432 5.587624081324844e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+Baylor
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+Purdue
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+650 5.560557470172441e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+425 5.553432224634316e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Houston
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+657 5.549026605474838e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+619 5.522425884824273e-08
 
 Baylor
 UCLA
@@ -1234,15 +3362,15 @@ Auburn
 UCLA
 Kentucky
 Gonzaga
-Duke
+Texas Tech
 Arizona
-Tennessee
+Villanova
 Kansas
 Auburn
 
-UCLA
+Kentucky
 Gonzaga
-Arizona
+Villanova
 Kansas
 
 Gonzaga
@@ -1250,95 +3378,19 @@ Kansas
 
 Gonzaga
 
-432 1.829833344695447e-08
+429 5.473220683080397e-08
 
 Baylor
 UCLA
 Purdue
 Kentucky
 Gonzaga
-Arkansas
+Connecticut
 Texas Tech
 Duke
 Arizona
 Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Iowa
-
-Gonzaga
-Iowa
-
-Gonzaga
-
-528 1.8018152519365883e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-450 1.7977257432663154e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
+Michigan
 Villanova
 Kansas
 Iowa
@@ -1351,20 +3403,58 @@ Gonzaga
 Duke
 Arizona
 Villanova
-Kansas
+Iowa
 Auburn
 
 Kentucky
 Gonzaga
 Villanova
+Iowa
+
+Kentucky
+Iowa
+
+Iowa
+
+697 5.4438307059458116e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+San Diego State
+Iowa
+Louisiana State
 Auburn
 
+Baylor
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Auburn
+
+Kentucky
 Gonzaga
 Villanova
+Iowa
 
-Gonzaga
+Kentucky
+Iowa
 
-445 1.7889499601601133e-08
+Iowa
+
+678 5.422707342100203e-08
 
 Baylor
 UCLA
@@ -1380,29 +3470,29 @@ Tennessee
 Villanova
 Kansas
 Iowa
-Wisconsin
+Louisiana State
 Auburn
 
-Baylor
+UCLA
 Kentucky
 Gonzaga
 Texas Tech
 Arizona
-Villanova
+Tennessee
 Kansas
-Auburn
+Louisiana State
 
-Kentucky
+UCLA
 Gonzaga
-Villanova
-Kansas
-
-Gonzaga
+Tennessee
 Kansas
 
-Gonzaga
+UCLA
+Kansas
 
-428 1.7726194088546603e-08
+UCLA
+
+613 5.4145850213830184e-08
 
 North Carolina
 UCLA
@@ -1425,60 +3515,22 @@ UCLA
 Kentucky
 Gonzaga
 Duke
-Houston
+Arizona
 Tennessee
 Kansas
 Auburn
 
 Kentucky
 Gonzaga
-Tennessee
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-470 1.7354027963584267e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
 Arizona
 Kansas
 
 Gonzaga
-Arizona
+Kansas
 
 Gonzaga
 
-433 1.7254865384973538e-08
+432 5.364462310925246e-08
 
 Baylor
 UCLA
@@ -1491,150 +3543,36 @@ Duke
 Arizona
 Houston
 Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-421 1.7237688163873186e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-455 1.7198784639814e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
+Loyola (IL)
 Kansas
 Iowa
 Wisconsin
 Auburn
 
 UCLA
-Kentucky
+Purdue
 Gonzaga
-Texas Tech
+Duke
 Arizona
-Villanova
+Tennessee
 Iowa
 Auburn
 
 UCLA
 Gonzaga
 Arizona
-Auburn
+Iowa
 
-Gonzaga
-Arizona
+UCLA
+Iowa
 
-Gonzaga
+UCLA
 
-444 1.7157770185942906e-08
+689 5.336641419431621e-08
 
 Baylor
 UCLA
 Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Illinois
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-446 1.715570997414835e-08
-
-Baylor
-UCLA
-Purdue
 Kentucky
 Gonzaga
 Arkansas
@@ -1646,49 +3584,11 @@ Michigan
 Villanova
 Kansas
 Iowa
-Louisiana State
+Wisconsin
 Auburn
 
 UCLA
 Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-452 1.710605218223136e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Purdue
 Gonzaga
 Duke
 Arizona
@@ -1696,17 +3596,17 @@ Villanova
 Kansas
 Auburn
 
-Baylor
+UCLA
 Gonzaga
 Arizona
-Kansas
+Auburn
 
-Gonzaga
-Arizona
+UCLA
+Auburn
 
-Gonzaga
+UCLA
 
-415 1.6904704565248773e-08
+620 5.336305497726871e-08
 
 Baylor
 UCLA
@@ -1726,32 +3626,32 @@ Louisiana State
 Auburn
 
 UCLA
-Purdue
+Kentucky
 Gonzaga
 Duke
-Houston
+Arizona
 Villanova
 Kansas
 Auburn
 
 UCLA
-Gonzaga
+Duke
 Villanova
 Kansas
 
-Gonzaga
+UCLA
 Villanova
 
-Gonzaga
+UCLA
 
-465 1.6893538885523435e-08
+617 5.3202292754703315e-08
 
 Baylor
 UCLA
-Purdue
+Texas
 Kentucky
 Gonzaga
-Arkansas
+Connecticut
 Texas Tech
 Duke
 Arizona
@@ -1764,9 +3664,9 @@ Louisiana State
 Auburn
 
 UCLA
-Purdue
+Kentucky
 Gonzaga
-Texas Tech
+Duke
 Arizona
 Villanova
 Kansas
@@ -1774,15 +3674,15 @@ Auburn
 
 UCLA
 Gonzaga
-Arizona
+Villanova
 Kansas
 
-Gonzaga
-Kansas
+UCLA
+Villanova
 
-Gonzaga
+UCLA
 
-440 1.6808225091521986e-08
+603 5.316426137178434e-08
 
 Baylor
 UCLA
@@ -1801,7 +3701,7 @@ Iowa
 Wisconsin
 Auburn
 
-Baylor
+UCLA
 Kentucky
 Gonzaga
 Duke
@@ -1815,57 +3715,19 @@ Gonzaga
 Arizona
 Kansas
 
-Gonzaga
-Arizona
-
-Gonzaga
-
-424 1.6734458696219952e-08
-
-North Carolina
-UCLA
-Purdue
 Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
 Kansas
-Iowa
-Louisiana State
-Auburn
 
-UCLA
 Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
 
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-447 1.671983945524953e-08
+466 5.311367219573384e-08
 
 Baylor
 UCLA
 Texas
 Kentucky
 Gonzaga
-Connecticut
+Arkansas
 Texas Tech
 Michigan State
 Arizona
@@ -1888,53 +3750,15 @@ Auburn
 
 UCLA
 Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-441 1.6689161355973864e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
 Arizona
-Houston
-Tennessee
-Villanova
 Kansas
-Iowa
-Wisconsin
-Auburn
 
 UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
 Kansas
-Auburn
 
 UCLA
-Gonzaga
-Arizona
-Kansas
 
-Gonzaga
-Arizona
-
-Gonzaga
-
-431 1.6632232522535394e-08
+582 5.3103475488672536e-08
 
 Baylor
 UCLA
@@ -1942,272 +3766,6 @@ Purdue
 Kentucky
 Gonzaga
 Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-448 1.6527347593429206e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-460 1.6518767550946085e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Providence
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-427 1.6490018138032767e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-437 1.6430969278124827e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-448 1.6400370568734482e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-451 1.62214638687877e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-464 1.600406505580884e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
 Texas Tech
 Duke
 Arizona
@@ -2219,26 +3777,26 @@ Iowa
 Louisiana State
 Auburn
 
-UCLA
+Baylor
 Kentucky
 Gonzaga
-Texas Tech
+Duke
 Arizona
-Villanova
+Tennessee
 Kansas
-Louisiana State
+Auburn
 
 Kentucky
 Gonzaga
 Arizona
 Kansas
 
-Gonzaga
+Kentucky
 Arizona
 
-Gonzaga
+Kentucky
 
-426 1.598353811069912e-08
+470 5.301189320258266e-08
 
 Baylor
 UCLA
@@ -2246,158 +3804,6 @@ Purdue
 Kentucky
 Gonzaga
 Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-452 1.5960531319617526e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-439 1.5946766424897917e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-454 1.5904527465243766e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-443 1.586918861594843e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
 Texas Tech
 Duke
 Seton Hall
@@ -2415,248 +3821,20 @@ Gonzaga
 Duke
 Houston
 Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-448 1.5831916565784755e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-432 1.5830803031443145e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Wisconsin
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-421 1.5766453599911263e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-425 1.5751989178415325e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-425 1.573161011327056e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Villanova
 Iowa
 Auburn
 
-Kentucky
-Gonzaga
-Houston
-Iowa
-
-Gonzaga
-Houston
-
-Gonzaga
-
-555 1.5728890015286582e-08
-
-Baylor
 UCLA
-Texas
-Kentucky
 Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
 Villanova
-Kansas
-Iowa
-Louisiana State
 Auburn
 
 UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
 Auburn
 
 UCLA
-Gonzaga
-Villanova
-Kansas
 
-Gonzaga
-Kansas
-
-Gonzaga
-
-443 1.565465868457952e-08
+623 5.298730684447569e-08
 
 Baylor
 UCLA
@@ -2678,99 +3856,23 @@ Auburn
 UCLA
 Kentucky
 Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-421 1.5641865956565734e-08
-
-North Carolina
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
 Texas Tech
-Duke
 Arizona
-Houston
-Tennessee
 Villanova
 Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
 Auburn
 
 UCLA
 Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-436 1.5635617517736986e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
 Villanova
 Kansas
-Iowa
-Louisiana State
-Auburn
 
-UCLA
-Kentucky
 Gonzaga
-Texas Tech
-Arizona
-Tennessee
 Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Tennessee
-Auburn
-
-Gonzaga
-Auburn
 
 Gonzaga
 
-473 1.5575056262956598e-08
+436 5.2922373508694264e-08
 
 Baylor
 UCLA
@@ -2782,3396 +3884,470 @@ Texas Tech
 Duke
 Arizona
 Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-440 1.5572494811630438e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Houston
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-466 1.5511224831322542e-08
-
-Marquette
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-442 1.5450802162525827e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-434 1.531486296854049e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-419 1.5212822431825312e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-474 1.5193277626572725e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-452 1.5167813879930893e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Louisiana State
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-446 1.5153084749443952e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-427 1.512738628564987e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-449 1.5019261656907185e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-432 1.5013639819978244e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-447 1.5005530893603644e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-446 1.4980701596161304e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-455 1.497139501337262e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-418 1.4938114780417298e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-460 1.4900919550226584e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-440 1.4843073636919724e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Wisconsin
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-438 1.4809295692534553e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Louisiana State
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-439 1.478017989766336e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-450 1.4749932449512864e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-444 1.4663179559743005e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-421 1.4561777743601863e-08
-
-Baylor
-UCLA
-Virginia Tech
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-463 1.4506786097449822e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Tennessee
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-456 1.4490274073665143e-08
-
-North Carolina
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-462 1.4436459934668988e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-448 1.4420634514726202e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-414 1.4363477791344582e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Purdue
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-432 1.4341822959416782e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Michigan State
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-465 1.4332535792359256e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-481 1.4274514352646659e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-417 1.4254453251317286e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-438 1.4250721302809623e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Houston
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-467 1.4218929095524558e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-446 1.4188796286493727e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-447 1.4181115510305291e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-445 1.4152166921647524e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Iowa
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-501 1.4111857597119266e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-460 1.4094737234879715e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-437 1.4092576613513911e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-452 1.4051351566044668e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-428 1.3974217323092264e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-430 1.3944046720217339e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Louisiana State
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-415 1.3760965064857975e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Illinois
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-454 1.3723384826051642e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-431 1.3662953151696412e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-431 1.3648439824084583e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-422 1.3622988533920515e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-Purdue
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-441 1.3575046331438499e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Iowa
-Auburn
-
-UCLA
-Gonzaga
-Houston
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-498 1.3556029095584909e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-477 1.3541321262522478e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Iowa
-
-Gonzaga
-
-529 1.3507471437124157e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Illinois
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-438 1.350155028787185e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Tennessee
-
-Gonzaga
-
-475 1.347918280752834e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-420 1.3474045912963945e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Houston
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-485 1.3473168188957807e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-442 1.3352240042771713e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Providence
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-447 1.3330526364360515e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-442 1.3320714505059049e-08
-
-Baylor
-UCLA
-Virginia Tech
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-461 1.3280502004512394e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-423 1.3266311872030879e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-417 1.324431693781214e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Tennessee
-Auburn
-
-Gonzaga
-Tennessee
-
-Gonzaga
-
-481 1.3237850166465814e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-462 1.3237109571131157e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-439 1.3217942946556338e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Louisiana State
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-440 1.321225607947367e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Alabama
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-425 1.3205001512032e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-465 1.3189057566433537e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-454 1.3180915076015035e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-434 1.3163330957786227e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Arizona
-
-418 1.3085920118826902e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-467 1.3031050108383024e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-477 1.302448294035643e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Michigan State
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Louisiana State
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-435 1.3015336938526272e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-466 1.301229044010139e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Providence
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-443 1.297605649688781e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-454 1.2974293038298773e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-447 1.2971827186620492e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Alabama
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-429 1.2966345674592123e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Villanova
-Iowa
-Auburn
-
-UCLA
-Gonzaga
-Houston
-Auburn
-
-Gonzaga
-Houston
-
-Gonzaga
-
-555 1.2953602113114284e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-468 1.2948100623566662e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Iowa
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-444 1.2946336290537057e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-458 1.2908635258477913e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Houston
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-468 1.2870131834995566e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-453 1.2864323426207189e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-434 1.2854959942280959e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Wisconsin
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-416 1.283430158694507e-08
-
-Baylor
-Saint Mary's (CA)
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Saint Mary's (CA)
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-424 1.2757663314779245e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Houston
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-468 1.2753178527463238e-08
-
-Baylor
-Saint Mary's (CA)
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-421 1.2711245519312016e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
 Tennessee
 Ohio State
 Kansas
 Iowa
-Louisiana State
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+586 5.288854037908403e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
 Auburn
 
 Baylor
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Wisconsin
+
+Kentucky
+Gonzaga
+Houston
+Iowa
+
+Kentucky
+Houston
+
+Houston
+
+684 5.2852145938934784e-08
+
+Baylor
+UCLA
+Virginia Tech
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+441 5.274848743433685e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+434 5.2684525534269574e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Texas Tech
+Arizona
+Auburn
+
+UCLA
+Auburn
+
+UCLA
+
+611 5.242388258967733e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Tennessee
+Kansas
+
+UCLA
+Tennessee
+
+UCLA
+
+619 5.24179723404155e-08
+
+Baylor
+UCLA
+Virginia Tech
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Houston
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+624 5.218104725155802e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+576 5.1623799896738315e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Louisiana State
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+Iowa
+
+722 5.146482433140483e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Houston
+Auburn
+
+Gonzaga
+Auburn
+
+Gonzaga
+
+495 5.1306215016799206e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Kentucky
+Villanova
+
+Kentucky
+
+480 5.129510330504466e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+432 5.1022285780130957e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
 Kentucky
 Gonzaga
 Duke
@@ -6190,7 +4366,197 @@ Kansas
 
 Gonzaga
 
-420 1.2690786750926012e-08
+428 5.099198605013432e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Loyola (IL)
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+652 5.099043175859746e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Louisiana State
+
+UCLA
+Gonzaga
+Tennessee
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+602 5.069686891816359e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Auburn
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+458 5.068118369069327e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+488 5.0667121678432106e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+451 5.047853282582504e-08
 
 Baylor
 UCLA
@@ -6216,6 +4582,1032 @@ Duke
 Arizona
 Villanova
 Kansas
+Louisiana State
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+431 5.0133631791214875e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Houston
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Villanova
+
+UCLA
+
+623 5.0121947509262846e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+UCLA
+Villanova
+
+UCLA
+
+650 5.0029793610802554e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Houston
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+686 4.989677275525833e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+426 4.9829501196178204e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Duke
+Villanova
+Auburn
+
+UCLA
+Villanova
+
+UCLA
+
+628 4.9815546409146886e-08
+
+North Carolina
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Iowa
+
+Kentucky
+Iowa
+
+Iowa
+
+683 4.9773751908616845e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+San Diego State
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Auburn
+
+UCLA
+Arizona
+
+UCLA
+
+605 4.9625670227014026e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Iowa
+Louisiana State
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Gonzaga
+
+525 4.957668404027484e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Tennessee
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+600 4.955566996880184e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Auburn
+
+Gonzaga
+
+452 4.954616647272576e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Auburn
+
+Kentucky
+Auburn
+
+Kentucky
+
+494 4.952329622578455e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+596 4.941649701857265e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+448 4.9269836511661407e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+471 4.9268930570458724e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+714 4.8985416840013795e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Auburn
+
+Kentucky
+Villanova
+
+Kentucky
+
+498 4.885489168454565e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Michigan
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+685 4.881127174233521e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+443 4.865621679172486e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Michigan
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+430 4.852184698838075e-08
+
+Baylor
+UCLA
+Virginia Tech
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+444 4.838556365454732e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Auburn
+
+Gonzaga
+
+445 4.831245812478191e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Louisiana State
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+621 4.823301112170052e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+Gonzaga
+Auburn
+
+Gonzaga
+
+472 4.8212050971830386e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Kentucky
+Kansas
+
+Kentucky
+
+490 4.814332882861441e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+685 4.807387206250617e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Houston
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+610 4.8029518963797834e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
 Auburn
 
 Kentucky
@@ -6228,7 +5620,349 @@ Villanova
 
 Gonzaga
 
-444 1.2643656036153469e-08
+448 4.7766594485977394e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+431 4.7542840186913966e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+440 4.750767178409442e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+460 4.740938400532724e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Gonzaga
+
+512 4.7375347963247853e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+651 4.733086297845655e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+Baylor
+Purdue
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Iowa
+Auburn
+
+Purdue
+Gonzaga
+Villanova
+Iowa
+
+Purdue
+Iowa
+
+Iowa
+
+693 4.7040351356981896e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Iowa
+
+Gonzaga
+Iowa
+
+Gonzaga
+
+525 4.6942079932010455e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+450 4.690329835985895e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Illinois
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+448 4.6820465068131384e-08
 
 North Carolina
 UCLA
@@ -6248,29 +5982,29 @@ Wisconsin
 Auburn
 
 UCLA
-Kentucky
+Purdue
 Gonzaga
 Texas Tech
 Arizona
-Villanova
+Tennessee
 Kansas
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
-Villanova
-Kansas
+Tennessee
+Auburn
 
-Gonzaga
-Villanova
+UCLA
+Tennessee
 
-Gonzaga
+UCLA
 
-444 1.2640530632993786e-08
+640 4.6602540190423174e-08
 
 Baylor
 UCLA
-Texas
+Purdue
 Kentucky
 Gonzaga
 Arkansas
@@ -6282,7 +6016,7 @@ Tennessee
 Villanova
 Kansas
 Iowa
-Wisconsin
+Louisiana State
 Auburn
 
 UCLA
@@ -6299,12 +6033,12 @@ Gonzaga
 Villanova
 Kansas
 
-Gonzaga
-Kansas
+UCLA
+Villanova
 
-Gonzaga
+UCLA
 
-450 1.262279067642527e-08
+617 4.621908480089921e-08
 
 Baylor
 UCLA
@@ -6315,7 +6049,7 @@ Connecticut
 Texas Tech
 Duke
 Arizona
-Illinois
+Houston
 Tennessee
 Villanova
 Kansas
@@ -6326,137 +6060,23 @@ Auburn
 UCLA
 Kentucky
 Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-442 1.2612139370441287e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Iowa
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-448 1.2607715638139212e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Michigan
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
 Texas Tech
 Houston
 Villanova
 Kansas
 Auburn
 
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-445 1.2602038719420328e-08
-
-Baylor
 UCLA
-Texas
-Kentucky
 Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
+Houston
 Auburn
 
 UCLA
-Texas
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
+Houston
 
 UCLA
-Gonzaga
-Arizona
-Kansas
 
-Gonzaga
-Kansas
-
-Gonzaga
-
-432 1.2594249335929182e-08
+682 4.612873596906391e-08
 
 Baylor
 UCLA
@@ -6472,11 +6092,49 @@ Tennessee
 Villanova
 Kansas
 Iowa
-Wisconsin
+Louisiana State
 Auburn
 
 UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+Purdue
+Duke
+Villanova
+Auburn
+
+Duke
+Villanova
+
+Villanova
+
+514 4.599647194480909e-08
+
+Baylor
+UCLA
+Purdue
 Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
 Gonzaga
 Duke
 Arizona
@@ -6487,25 +6145,63 @@ Auburn
 UCLA
 Gonzaga
 Villanova
-Auburn
+Kansas
 
-Gonzaga
+UCLA
 Villanova
 
-Gonzaga
+UCLA
 
-473 1.2562522281853118e-08
+617 4.5834906518830454e-08
 
 North Carolina
 UCLA
-Texas
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Tennessee
+Kansas
+
+Gonzaga
+Tennessee
+
+Gonzaga
+
+493 4.550565686282198e-08
+
+North Carolina
+UCLA
+Purdue
 Kentucky
 Gonzaga
 Connecticut
 Texas Tech
 Duke
 Arizona
-Houston
+Illinois
 Tennessee
 Villanova
 Kansas
@@ -6516,23 +6212,23 @@ Auburn
 UCLA
 Kentucky
 Gonzaga
-Texas Tech
+Duke
 Arizona
-Villanova
-Kansas
+Tennessee
+Iowa
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
 Arizona
-Kansas
+Iowa
 
-Gonzaga
-Kansas
+UCLA
+Iowa
 
-Gonzaga
+UCLA
 
-425 1.2558524071644856e-08
+699 4.5494792366288093e-08
 
 Baylor
 UCLA
@@ -6544,7 +6240,7 @@ Texas Tech
 Duke
 Arizona
 Houston
-Michigan
+Tennessee
 Villanova
 Kansas
 Iowa
@@ -6556,173 +6252,21 @@ Kentucky
 Gonzaga
 Duke
 Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-434 1.2546505940793464e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-450 1.2534327478532149e-08
-
-Baylor
-UCLA
-Texas
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-457 1.2530867771377568e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Alabama
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Baylor
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-423 1.2504287490169279e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
 Tennessee
 Iowa
 Auburn
 
-UCLA
+Kentucky
 Gonzaga
-Arizona
+Tennessee
 Iowa
 
 Gonzaga
-Arizona
+Iowa
 
-Gonzaga
+Iowa
 
-478 1.2498559964311708e-08
+675 4.536199600137205e-08
 
 Baylor
 UCLA
@@ -6734,6 +6278,424 @@ Texas Tech
 Duke
 Arizona
 Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Illinois
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Villanova
+
+UCLA
+
+617 4.5093779304508595e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+630 4.494551135598257e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+UCLA
+Auburn
+
+Auburn
+
+550 4.4841621596862184e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+Purdue
+Duke
+Arizona
+Iowa
+
+Duke
+Iowa
+
+Iowa
+
+680 4.465032436633108e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+430 4.4394224820782806e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Tennessee
+Auburn
+
+UCLA
+Tennessee
+
+UCLA
+
+634 4.431495711779326e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Michigan State
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Houston
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Houston
+Kansas
+
+Kentucky
+Houston
+
+Houston
+
+683 4.428954251541002e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Houston
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+601 4.426359506149683e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Kansas
+
+Kansas
+
+490 4.422689965212894e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Louisiana State
+
+Kentucky
+Gonzaga
+Tennessee
+Kansas
+
+Gonzaga
+Kansas
+
+Gonzaga
+
+447 4.414983015693146e-08
+
+North Carolina
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Villanova
+
+UCLA
+
+634 4.4078649280447465e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
 Michigan
 Villanova
 Kansas
@@ -6750,55 +6712,17 @@ Villanova
 Kansas
 Auburn
 
-Kentucky
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-438 1.2413176317492031e-08
-
-Baylor
 UCLA
-Purdue
-Kentucky
 Gonzaga
-Arkansas
-Texas Tech
-Duke
 Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
 Auburn
 
-UCLA
-Kentucky
 Gonzaga
-Texas Tech
 Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Tennessee
-Kansas
-
-Gonzaga
-Tennessee
 
 Gonzaga
 
-487 1.2389491375270574e-08
+454 4.4059395531008145e-08
 
 Baylor
 UCLA
@@ -6814,40 +6738,40 @@ Tennessee
 Villanova
 Kansas
 Iowa
-Wisconsin
+Louisiana State
 Auburn
 
 UCLA
 Kentucky
 Gonzaga
-Duke
+Texas Tech
 Houston
 Villanova
 Kansas
 Auburn
 
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-442 1.2381367091549615e-08
-
-North Carolina
 UCLA
-Texas
+Gonzaga
+Houston
+Auburn
+
+UCLA
+Auburn
+
+Auburn
+
+571 4.393920620626276e-08
+
+Baylor
+UCLA
+Purdue
 Kentucky
 Gonzaga
 Arkansas
-Alabama
+Texas Tech
 Duke
 Arizona
-Houston
+Illinois
 Tennessee
 Villanova
 Kansas
@@ -6860,21 +6784,21 @@ Kentucky
 Gonzaga
 Duke
 Arizona
-Villanova
-Kansas
+Tennessee
+Iowa
 Auburn
 
 UCLA
 Gonzaga
-Villanova
-Kansas
+Arizona
+Auburn
 
 Gonzaga
-Villanova
+Auburn
 
 Gonzaga
 
-464 1.2375013546833531e-08
+470 4.3895521624492697e-08
 
 Baylor
 UCLA
@@ -6890,492 +6814,36 @@ Tennessee
 Villanova
 Kansas
 Iowa
-Wisconsin
-Auburn
-
-Baylor
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Villanova
-
-Gonzaga
-
-453 1.2373865840090381e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Tennessee
-Kansas
-Auburn
-
-Kentucky
-Gonzaga
-Arizona
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-459 1.236649652105509e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Iowa
-Auburn
-
-Kentucky
-Gonzaga
-Tennessee
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-468 1.2362881106465358e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-434 1.2320500316696516e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Wisconsin
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-447 1.2282215235835513e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Duke
-Houston
-Tennessee
-Kansas
-Auburn
-
-Purdue
-Gonzaga
-Houston
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-481 1.223246727179224e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-446 1.2222054206901564e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Providence
-Wisconsin
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-432 1.2207541049161812e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-Baylor
-Purdue
-Gonzaga
-Duke
-Arizona
-Villanova
-Kansas
-Auburn
-
-Baylor
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Kansas
-
-Gonzaga
-
-410 1.2186718397645091e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Arkansas
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Houston
-Villanova
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-464 1.2131396882523092e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Houston
-Tennessee
-Villanova
-Kansas
-Iowa
 Louisiana State
 Auburn
 
 Baylor
 Kentucky
 Gonzaga
-Duke
-Arizona
-Villanova
-Iowa
-Auburn
-
-Baylor
-Gonzaga
-Villanova
-Auburn
-
-Gonzaga
-Auburn
-
-Gonzaga
-
-444 1.2115172998850476e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
 Texas Tech
-Duke
-Arizona
 Houston
-Tennessee
 Villanova
 Kansas
-Iowa
 Louisiana State
-Auburn
-
-UCLA
-Purdue
-Gonzaga
-Texas Tech
-Arizona
-Tennessee
-Kansas
-Auburn
-
-UCLA
-Gonzaga
-Arizona
-Kansas
-
-Gonzaga
-Arizona
-
-Gonzaga
-
-439 1.2112523176295857e-08
-
-Baylor
-UCLA
-Purdue
-Kentucky
-Gonzaga
-Connecticut
-Texas Tech
-Duke
-Arizona
-Illinois
-Tennessee
-Villanova
-Kansas
-Providence
-Louisiana State
-Auburn
-
-UCLA
-Kentucky
-Gonzaga
-Texas Tech
-Arizona
-Villanova
-Kansas
-Auburn
 
 Kentucky
 Gonzaga
-Villanova
+Houston
 Kansas
 
-Gonzaga
-Villanova
+Kentucky
+Houston
 
-Gonzaga
+Houston
 
-439 1.210982119372507e-08
+681 4.378144150951657e-08
 
 North Carolina
 UCLA
 Purdue
 Kentucky
 Gonzaga
-Connecticut
+Arkansas
 Texas Tech
 Duke
 Arizona
@@ -7393,8 +6861,122 @@ Gonzaga
 Duke
 Arizona
 Villanova
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Auburn
+
+Gonzaga
+Auburn
+
+Gonzaga
+
+464 4.3736515199922934e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
 Kansas
+Iowa
 Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Auburn
+
+Gonzaga
+Villanova
+
+Gonzaga
+
+462 4.3693518750034704e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Tennessee
+Kansas
+Auburn
+
+Kentucky
+Texas Tech
+Tennessee
+Kansas
+
+Texas Tech
+Kansas
+
+Texas Tech
+
+554 4.3592170492237863e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
 
 UCLA
 Gonzaga
@@ -7406,7 +6988,7 @@ Arizona
 
 Gonzaga
 
-438 1.2105945273123804e-08
+430 4.354745982197652e-08
 
 Baylor
 UCLA
@@ -7422,7 +7004,121 @@ Michigan
 Villanova
 Kansas
 Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+UCLA
+
+687 4.3544276215791276e-08
+
+Baylor
+UCLA
+Virginia Tech
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
 Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+603 4.3431874562929614e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Duke
+Arizona
+Tennessee
+Kansas
+Auburn
+
+UCLA
+Duke
+Arizona
+Kansas
+
+UCLA
+Arizona
+
+UCLA
+
+581 4.334356603089462e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Connecticut
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
 Auburn
 
 UCLA
@@ -7431,8 +7127,160 @@ Gonzaga
 Duke
 Arizona
 Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+598 4.3312367578609323e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+Baylor
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Wisconsin
+
+Kentucky
+Gonzaga
+Arizona
+Iowa
+
+Gonzaga
+Iowa
+
+Iowa
+
+632 4.33028565566199e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
 Iowa
 Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Iowa
+Auburn
+
+Kentucky
+Gonzaga
+Arizona
+Auburn
+
+Gonzaga
+Arizona
+
+Gonzaga
+
+425 4.3264234684989415e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Houston
+Michigan
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Purdue
+Gonzaga
+Texas Tech
+Houston
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Iowa
+
+UCLA
+Iowa
+
+Iowa
+
+744 4.319259745885868e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Louisiana State
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Tennessee
+Iowa
+Auburn
 
 Kentucky
 Gonzaga
@@ -7444,7 +7292,7 @@ Arizona
 
 Gonzaga
 
-467 1.209288602798716e-08
+452 4.298795445301071e-08
 
 Baylor
 UCLA
@@ -7459,8 +7307,8 @@ Houston
 Tennessee
 Villanova
 Kansas
-Providence
-Louisiana State
+Iowa
+Wisconsin
 Auburn
 
 UCLA
@@ -7472,17 +7320,17 @@ Tennessee
 Kansas
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
 Arizona
 Kansas
 
 Gonzaga
-Kansas
+Arizona
 
 Gonzaga
 
-418 1.2080065845285997e-08
+443 4.290451920571824e-08
 
 Baylor
 UCLA
@@ -7493,42 +7341,156 @@ Arkansas
 Texas Tech
 Duke
 Arizona
-Illinois
+Houston
 Tennessee
 Villanova
 Kansas
 Iowa
-Louisiana State
+Wisconsin
 Auburn
 
-UCLA
-Purdue
+Baylor
+Kentucky
 Gonzaga
-Texas Tech
-Arizona
-Villanova
+Duke
+Houston
+Tennessee
 Kansas
 Auburn
 
-UCLA
+Kentucky
 Gonzaga
-Arizona
-Auburn
+Houston
+Kansas
 
-Gonzaga
-Arizona
+Kentucky
+Kansas
 
-Gonzaga
+Kentucky
 
-459 1.2071745133794104e-08
+501 4.2811382645467066e-08
 
 North Carolina
 UCLA
 Purdue
 Kentucky
 Gonzaga
+Arkansas
+Texas Tech
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Kansas
+Auburn
+
+Kentucky
+Gonzaga
+Villanova
+Kansas
+
+Kentucky
+Kansas
+
+Kentucky
+
+478 4.2798319705174824e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
 Connecticut
 Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Kansas
+Auburn
+
+UCLA
+Gonzaga
+Arizona
+Kansas
+
+UCLA
+Kansas
+
+UCLA
+
+577 4.2629503969358146e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Texas Tech
+Duke
+Arizona
+Illinois
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Duke
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Duke
+Arizona
+Iowa
+
+UCLA
+Iowa
+
+Iowa
+
+717 4.244155855830722e-08
+
+Baylor
+UCLA
+Purdue
+Kentucky
+Gonzaga
+Connecticut
+Alabama
 Duke
 Arizona
 Houston
@@ -7542,23 +7504,23 @@ Auburn
 UCLA
 Kentucky
 Gonzaga
-Texas Tech
-Arizona
+Duke
+Houston
 Villanova
-Kansas
+Iowa
 Auburn
 
-Kentucky
-Gonzaga
+UCLA
+Duke
 Villanova
-Kansas
+Iowa
 
-Gonzaga
-Villanova
+UCLA
+Iowa
 
-Gonzaga
+UCLA
 
-469 1.2067948525172356e-08
+712 4.237313151290312e-08
 
 Baylor
 UCLA
@@ -7569,12 +7531,50 @@ Arkansas
 Texas Tech
 Duke
 Arizona
-Illinois
+Houston
 Tennessee
 Villanova
 Kansas
 Iowa
-Louisiana State
+Wisconsin
+Auburn
+
+UCLA
+Kentucky
+Gonzaga
+Texas Tech
+Arizona
+Villanova
+Iowa
+Auburn
+
+UCLA
+Gonzaga
+Villanova
+Auburn
+
+Gonzaga
+Auburn
+
+Auburn
+
+496 4.235764958203492e-08
+
+Baylor
+UCLA
+Texas
+Kentucky
+Gonzaga
+Arkansas
+Alabama
+Duke
+Arizona
+Houston
+Tennessee
+Villanova
+Kansas
+Iowa
+Wisconsin
 Auburn
 
 UCLA
@@ -7582,19 +7582,19 @@ Kentucky
 Gonzaga
 Duke
 Arizona
-Tennessee
+Villanova
 Kansas
 Auburn
 
-Kentucky
+UCLA
 Gonzaga
-Tennessee
-Kansas
+Villanova
+Auburn
 
-Gonzaga
-Kansas
+UCLA
+Auburn
 
-Gonzaga
+UCLA
 
-435 1.205444539406478e-08
+627 4.2097054972013076e-08
 

@@ -64,15 +64,6 @@ for i in range(len(team_id)):
     team_id_dict[team_name[i]] = team_id[i]
     team_seed_dict[team_id[i]] = team_seed[i]
     team_region_dict[team_id[i]] = team_region[i]
-
-with open('wpw.csv', newline='') as f:
-    reader2 = csv.reader(f)
-    wpwdata = list(reader2)
-wpwlist = []
-for i in range(len(wpwdata)):
-    wpwlist.append(wpwdata[i][0])
-    
-bracket_size = 197
     
  
 def win_prob(rating1, rating2):
@@ -94,7 +85,6 @@ class Game:
         self.team2rating = team_rating[self.pos2]
         self.team1prob = win_prob(team_rating[self.pos1], team_rating[self.pos2])
         self.team2prob = 1.0 - self.team1prob
-        self.winnerprob = 0.0
         self.winner = 0
     
     
@@ -108,12 +98,10 @@ class Game:
     def Simulate(self):
         if random.random() < self.team1prob:
             self.winner = self.team1
-            self.winnerprob = self.team1prob
             #update elo 0.1 is made up
             #team_rating[self.pos1] = team_rating[self.pos1] + (0.1 * (1 - self.team1prob))
         else:
             self.winner = self.team2
-            self.winnerprob = self.team2prob
             #update elo 0.1 is made up
             #team_rating[self.pos2] = team_rating[self.pos2] + (0.1 * (1 - self.team2prob))
 
@@ -206,12 +194,10 @@ class Bracket:
         self.Score()
         self.Prob()
         self.adjusted_score = self.score * self.prob
-        #does this work?!?!?
-        #adjust for Who Picked Whom
-        if team_name_dict[self.games6[0].winner] in wpwlist:
-            index = wpwlist.index(team_name_dict[self.games6[0].winner])
-            self.adjusted_score = self.adjusted_score * ( self.games6[0].winnerprob / (float(wpwdata[index][1]) / 100.00))
-                     
+                
+        #code simulate a round and make games for next round
+    
+     
     def Score(self):
         score = 0
         for game in self.games1:
@@ -225,11 +211,8 @@ class Bracket:
         for game in self.games5:
             score += 16 * team_seed_dict[game.winner]
         for game in self.games6:
-            factor = 1.0
             score += 32 * team_seed_dict[game.winner]
         self.score = score
-        
-                
     
      
     def Prob(self):
@@ -339,7 +322,7 @@ def MonteCarlo(number):
 
 if __name__ == '__main__':
     p = Pool()
-    result = p.map(MonteCarlo, range(8))
+    result = p.map(MonteCarlo, range(9))
     biggerlist = []
     for x in result:
         for i in x:
@@ -347,7 +330,7 @@ if __name__ == '__main__':
     #biggerlist = list(set(biggerlist)) ## remove dupes
     biggerlist.sort(reverse=True, key=myFunc)
 
-    for i in range(200):
+    for i in range(500):
         for x in biggerlist[i][0]:
             print(team_name_dict[x])
         print()
