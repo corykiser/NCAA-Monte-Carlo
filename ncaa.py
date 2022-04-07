@@ -13,7 +13,7 @@ if os.path.exists('fivethirtyeight_ncaa_forecasts.csv') == False:
 #import csv
 with open('fivethirtyeight_ncaa_forecasts.csv', newline='') as f:
     reader = csv.reader(f)
-    data = list(reader)
+    data = list(reader).
 a = np.array(data)[2:]
 
 #narrow to mens pretourn forecast from csv
@@ -24,6 +24,7 @@ for line in a:
             if line[3] == '1.0':
                 mens.append(line)
 
+##tourney seed structure info
 round1 = [ [1,16], [2,15] , [3,14], [4,13], [5,12], [6,11], [7,10], [8,9] ]
 round2 = [ [1,16,8,9] , [5,12,4,13], [6,11,3,14], [7,10,2,15]]
 round3 = [ [1,16,8,9,5,12,4,13], [6,11,3,14,7,10,2,15]]
@@ -46,6 +47,7 @@ for i in range(len(team_seed)):
         team_seed[i] = team_seed[i][:-1]
 team_seed = team_seed.astype(np.int_)
 
+#sort teams into their regions
 region_names = ['East', 'West', 'South', 'Midwest']
 regions = [[],[],[],[]]
 for i in range(4):
@@ -65,6 +67,7 @@ for i in range(len(team_id)):
     team_seed_dict[team_id[i]] = team_seed[i]
     team_region_dict[team_id[i]] = team_region[i]
 
+#Who Picked Whom Data Import
 with open('wpw.csv', newline='') as f:
     reader2 = csv.reader(f)
     wpwdata = list(reader2)
@@ -213,6 +216,7 @@ class Bracket:
             self.adjusted_score = self.adjusted_score * ( self.games6[0].winnerprob / (float(wpwdata[index][1]) / 100.00))
                      
     def Score(self):
+        #score based on bracket scoring rules
         score = 0
         for game in self.games1:
             score += 1 + team_seed_dict[game.winner]
@@ -318,7 +322,7 @@ def myFunc2(e):
  
 def MonteCarlo(number):
     toplist = []
-    for i in range(100000):
+    for i in range(200000):
         y = Bracket()
         y.Simulate()
         if len(toplist) > 200:
